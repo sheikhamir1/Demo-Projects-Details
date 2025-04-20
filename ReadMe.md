@@ -48,6 +48,7 @@ The number of projects in this repository may increase as I continue to build an
 ├── SoilConnect/
 ├── FoodFusion/
 ├── BlogVerse/
+├── TaskMaster/
 └── ...more coming soon!
 ```
 
