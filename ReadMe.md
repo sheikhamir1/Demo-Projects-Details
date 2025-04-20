@@ -43,7 +43,7 @@ The number of projects in this repository may increase as I continue to build an
 ## Folder Structure Example:
 
 ```
-/Project-Docs
+/AllProjectsDetail
 │
 ├── SoilConnect/
 ├── FoodFusion/
