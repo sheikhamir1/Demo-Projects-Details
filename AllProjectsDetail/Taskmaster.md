@@ -71,10 +71,6 @@ export const db = getFirestore(app);
 
 #### Theme Context
 
-```jsx
-document.documentElement.classList.add("dark");
-```
-
 - Uses `localStorage` for theme persistence.
 - Applies Tailwind’s `dark` class to `<html>`.
 
